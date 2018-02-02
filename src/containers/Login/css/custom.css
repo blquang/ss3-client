@@ -1,0 +1,8 @@
+/* Login page style */
+#m_login .error-msg{
+    font-weight: 400;
+    font-size: .85rem;
+    padding-left: 1.6rem;   
+    color: #f4516c;
+    margin-top: .2rem;
+}

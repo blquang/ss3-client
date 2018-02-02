@@ -1,0 +1,17 @@
+.m-portlet__foot .m-form__actions{
+    padding: 1.1rem 2.2rem;
+}
+.m-portlet__foot .m-form__actions button:not(:first-child),
+.m-portlet__body .user-view > .m--margin-bottom-30 > button{
+    margin-left: 5px;
+}
+p.error-msg{
+    font-weight: 400;
+    font-size: .85rem;
+    color: #f4516c;
+    margin-top: .2rem;
+    margin-bottom: 0;
+}
+span.required{
+    color: #f4516c;
+}
